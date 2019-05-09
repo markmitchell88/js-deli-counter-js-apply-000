@@ -1,4 +1,4 @@
 function takeANumber(line, name){
-  katzDeliLine.push("Ada");
+  katzDeliLine.push;
   return `Welcome, ${name}. You are number ${line} in line.`
 }
